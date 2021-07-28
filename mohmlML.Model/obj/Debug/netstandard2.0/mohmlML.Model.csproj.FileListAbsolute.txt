@@ -1,0 +1,20 @@
+C:\Users\79634\source\repos\mohml\mohmlML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\79634\source\repos\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.deps.json
+C:\Users\79634\source\repos\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.dll
+C:\Users\79634\source\repos\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.pdb
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.csproj.AssemblyReference.cache
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.AssemblyInfoInputs.cache
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.AssemblyInfo.cs
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.csproj.CoreCompileInputs.cache
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.dll
+C:\Users\79634\source\repos\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.deps.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\bin\Debug\netstandard2.0\mohmlML.Model.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.AssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohmlML.Model\obj\Debug\netstandard2.0\mohmlML.Model.pdb
