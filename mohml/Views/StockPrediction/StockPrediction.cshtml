@@ -1,0 +1,49 @@
+﻿@model MohmlML.Model.ModelInput
+@{
+    ViewData["Title"] = "item Stock Predicti0n";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Welcome to Stock Prediction for the Item by Warehouse Location</h2>
+<h3>using ML.NET in ASP.NET Core</h3>
+<hr />
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="StockPrediction">
+            <div class="row">
+                <div class="form-group col-md-4">
+                    <label asp-for="ItemID" class="control-label">Item ID</label>
+                    <input asp-for="ItemID" class="form-control" />
+                </div>
+                <div class="form-group col-md-4">
+                    <label asp-for="Loccode" class="control-label">
+                         Warehouse Location Code:</label>
+                    <input asp-for="Loccode" class="form-control" />
+                </div>
+
+            </div>
+            <div class="form-group col-md-4 text-left">
+                <label class="control-label"></label>
+                <input type="submit" value="Stock Prediction" class="btn btn-primary" />
+            </div>
+        </form>
+        <hr />
+    </div>
+
+</div>
+
+@if (ViewBag.Result != null)
+{
+    <div class="row">
+        <div class="col-md-12">
+            <h2 style="color:#103f62">Here is the Test result for Item : 
+            <span style="color:#a50f0f"> @ViewData["ItemID"]  </span> 
+            for the Warehouse location <span style="color:#a50f0f">@ViewData["Loccode"] 
+            </span>  </h2>
+            <h1 style="color:#a50f0f">Final Predicted Stock Quantity is 
+            :@ViewBag.Result.Prediction  </h1>
+        </div>
+    </div>
+    <hr />
+}

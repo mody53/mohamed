@@ -1,0 +1,254 @@
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.exe
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.deps.json
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.runtimeconfig.json
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.runtimeconfig.dev.json
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.pdb
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.Views.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.Views.pdb
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohmlML.Model.dll
+C:\Users\79634\source\repos\mohml\mohml\bin\Debug\netcoreapp3.1\mohmlML.Model.pdb
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.AssemblyReference.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.AssemblyInfoInputs.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.AssemblyInfo.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.CoreCompileInputs.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorAssemblyInfo.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorAssemblyInfo.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\staticwebassets\mohml.StaticWebAssets.Manifest.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\staticwebassets\mohml.StaticWebAssets.xml
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\scopedcss\bundle\mohml.styles.css
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.TagHelpers.input.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.TagHelpers.output.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorCoreGenerate.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorTargetAssemblyInfo.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorTargetAssemblyInfo.cs
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.Views.pdb
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.CopyComplete
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.dll
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.pdb
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.genruntimeconfig.cache
+C:\Users\79634\source\repos\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\StockPrediction\StockPrediction.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\MLModel.zip
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.exe
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.deps.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.runtimeconfig.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.runtimeconfig.dev.json
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.Views.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohml.Views.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohmlML.Model.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\bin\Debug\netcoreapp3.1\mohmlML.Model.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.AssemblyReference.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.AssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorAssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\staticwebassets\mohml.StaticWebAssets.Manifest.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\staticwebassets\mohml.StaticWebAssets.xml
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\scopedcss\bundle\mohml.styles.css
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.TagHelpers.input.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.TagHelpers.output.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorCoreGenerate.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\StockPrediction\StockPrediction.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorTargetAssemblyInfo.cache
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.RazorTargetAssemblyInfo.cs
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.Views.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.csproj.CopyComplete
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.dll
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.pdb
+C:\Users\Mohamed Ali\Desktop\mohml\mohml\obj\Debug\netcoreapp3.1\mohml.genruntimeconfig.cache
